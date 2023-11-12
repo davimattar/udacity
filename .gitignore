@@ -1,0 +1,5 @@
+# Ignore the entire 'taxi-rides' directory
+taxi-rides/
+
+# Ignore a specific file named 'user-research.csv'
+user-research.csv
